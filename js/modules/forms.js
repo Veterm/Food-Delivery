@@ -7,7 +7,7 @@ function forms(formSelector ,modalTimerId){
     const message = {
         loading: 'img/form/spinner.svg',
         success: 'Erfolg',
-        failure: 'Sorry, du bist loh haha'
+        failure: 'Sorry'
     }
 
     forms.forEach(item => {
